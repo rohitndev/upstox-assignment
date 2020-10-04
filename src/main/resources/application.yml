@@ -1,0 +1,9 @@
+server:
+  port: 61000
+
+ohlc:
+  server:
+    tracker:
+      interval: 15
+    start:
+      delay: 10
